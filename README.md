@@ -45,7 +45,7 @@ cd simple-calculator
  
 *Installation*
 
-Install the project dependencies using npm:
+Install the project:
 
 skip..
 
